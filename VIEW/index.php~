@@ -52,8 +52,8 @@
             margin-bottom: .5vw;
             padding: .4vw;
             user-select: none;
-            text-align: center;
             cursor: pointer;
+            
         }
         #gp2{
             display: none;
