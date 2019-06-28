@@ -53,9 +53,7 @@
             padding: .4vw;
             user-select: none;
             cursor: pointer;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            
         }
         #gp2{
             display: none;
